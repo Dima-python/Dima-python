@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @Dima-python
-I wrote training projects on Django, DRF, FastApi, API integration, site parsing, telegram bot development.
+I write projects in:
+PHP, LARAVEL, HTML, CSS, JS, Mysql
+--------------------
+Django, DRF, FAST Api, integration API, website parsing, telegram bot development.
 
 
